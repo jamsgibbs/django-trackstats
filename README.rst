@@ -1,29 +1,6 @@
 =============================
 Welcome to django-trackstats!
 =============================
-
-.. image:: https://github.com/pennersr/django-trackstats/actions/workflows/ci.yml/badge.svg
-   :target: https://github.com/pennersr/django-trackstats/actions
-
-.. image:: https://img.shields.io/pypi/v/django-trackstats.svg
-   :target: https://pypi.python.org/pypi/django-trackstats
-
-.. image:: https://coveralls.io/repos/pennersr/django-trackstats/badge.svg?branch=main
-   :alt: Coverage Status
-   :target: https://coveralls.io/r/pennersr/django-trackstats
-
-.. image:: https://pennersr.github.io/img/bitcoin-badge.svg
-   :target: https://blockchain.info/address/1AJXuBMPHkaDCNX2rwAy34bGgs7hmrePEr
-
-.. image:: https://pennersr.github.io/img/emacs-badge.svg
-   :target: https://www.gnu.org/software/emacs/
-
-Keep track of your statistics.
-
-Source code
-  http://github.com/pennersr/django-trackstats
-
-
 Use Case
 ========
 
@@ -179,9 +156,3 @@ that.
 
 
 Cross-Selling
-=============
-
-If you like this, you may also like:
-
-- django-allauth: https://github.com/pennersr/django-allauth
-- netwell: https://github.com/pennersr/netwell
